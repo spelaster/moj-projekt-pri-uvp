@@ -1,7 +1,7 @@
 # Projektna naloga pri UVP - sudoku
 
 Za projektno nalogo bom naredila igrico sudoku.
-To je igirca katere cilj je pravilno zapolniti kvadratno mrežo velikosti 9x9 in sicer tako,
+To je igrica katere cilj je pravilno zapolniti kvadratno mrežo velikosti 9x9 in sicer tako,
 da se vsaka številka ponovi le enkrat v vrstici, stolpcu in v vsakem manjšem kvadratku 3x3.
 V kvadratni mreži so nekatera števila že podana.
 Zahtevnost igre je načeloma sorazmerna s številom že vpisanih števil.
